@@ -18,7 +18,7 @@ matplotlib
 itertools
 ```
 ### Model Training Toolbox
-The framework is constructed based on the MMAction2 (https://github.com/open-mmlab/mmaction2) toolbox.
+The framework is constructed based on the [[MMAction2]([url](https://github.com/open-mmlab/mmaction2))] (https://github.com/open-mmlab/mmaction2) toolbox.
 
 ### OS system
 This project was developed on Linux: Ubuntu 20.04
